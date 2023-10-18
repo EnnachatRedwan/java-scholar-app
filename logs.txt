@@ -1,0 +1,6 @@
+2023-10-18 14:19:19 | Fatima is attending
+2023-10-18 14:19:19 | Walid is not attending
+2023-10-18 14:19:19 | Youssef is attending
+2023-10-18 14:19:19 | Hamid is attending
+2023-10-18 14:19:19 | Ayman is not attending
+2023-10-18 14:19:19 | Redwan is attending
